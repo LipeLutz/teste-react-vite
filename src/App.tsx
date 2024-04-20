@@ -26,7 +26,7 @@ function App() {
         </p>
       </div>
       <p className="read-the-docs">
-        Aprenda React
+        Nem fodendo que funcionou
       </p>
     </>
   )
